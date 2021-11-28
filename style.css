@@ -148,9 +148,9 @@
   transition: 0.7s;
 }
 
-/*-----Team/Galleria-----*/
+/*-----Courses-----*/
 
-#team {
+#courses {
   padding-top: 50px;
   padding-bottom: 50px;
   color: #555;
@@ -311,7 +311,7 @@ ul li last-child {
   background-color: #80ff80;
 }
 
-/*-----Ota yhteyttä-----*/
+/*-----Contact-----*/
 
 #contact {
   background: #efefef;
