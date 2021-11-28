@@ -209,9 +209,9 @@ h1::after {
   transition: 0.5s;
 }
 
-/*-----Promo-----*/
+/*-----Experience-----*/
 
-#promo {
+#experience {
   background-image: linear-gradient(rgba(15, 62, 15, 0), rgba(15, 62, 15, 1)),
     url(img/cake3.jpg);
   background-size: cover;
