@@ -1,4 +1,5 @@
 * {
+  font-family: "Neue Machina Light", "Segoe UI", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -8,6 +9,7 @@
   position: sticky;
   top: 0;
   z-index: 10;
+  opacity: 90%;
 }
 
 .navbar-brand img {
@@ -25,7 +27,7 @@
 }
 
 #nav-bar ul li a:hover {
-  color: #ffb3d9 !important;
+  color: #3cd7e8 !important;
 }
 
 .navbar {
