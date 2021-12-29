@@ -494,7 +494,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/mountain-dusk.jpg);
+    background: url(../img/aurora.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1267,7 +1267,7 @@ img#nu-logo {
 /* ======= RESUME ======= */
 
 #resume {
-    background: url(../img/laptop-blur.jpg);
+    background: url(../img/desert.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1330,7 +1330,7 @@ a.resume-btn:active {
 
 #portfolio {
     padding-top: 90px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     background: #fff;
 }
 
